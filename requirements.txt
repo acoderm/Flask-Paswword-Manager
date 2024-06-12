@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Cryptography
+Fernet
+python-dotenv
+pysqlite3
+
